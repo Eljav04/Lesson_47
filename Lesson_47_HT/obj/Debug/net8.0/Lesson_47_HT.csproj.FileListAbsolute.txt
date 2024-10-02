@@ -1,0 +1,15 @@
+/Users/eljav04/Desktop/Cybernetics Backend/Home Tasks/Lesson_47_HT/Lesson_47_HT/bin/Debug/net8.0/Lesson_47_HT
+/Users/eljav04/Desktop/Cybernetics Backend/Home Tasks/Lesson_47_HT/Lesson_47_HT/bin/Debug/net8.0/Lesson_47_HT.deps.json
+/Users/eljav04/Desktop/Cybernetics Backend/Home Tasks/Lesson_47_HT/Lesson_47_HT/bin/Debug/net8.0/Lesson_47_HT.runtimeconfig.json
+/Users/eljav04/Desktop/Cybernetics Backend/Home Tasks/Lesson_47_HT/Lesson_47_HT/bin/Debug/net8.0/Lesson_47_HT.dll
+/Users/eljav04/Desktop/Cybernetics Backend/Home Tasks/Lesson_47_HT/Lesson_47_HT/bin/Debug/net8.0/Lesson_47_HT.pdb
+/Users/eljav04/Desktop/Cybernetics Backend/Home Tasks/Lesson_47_HT/Lesson_47_HT/obj/Debug/net8.0/Lesson_47_HT.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eljav04/Desktop/Cybernetics Backend/Home Tasks/Lesson_47_HT/Lesson_47_HT/obj/Debug/net8.0/Lesson_47_HT.AssemblyInfoInputs.cache
+/Users/eljav04/Desktop/Cybernetics Backend/Home Tasks/Lesson_47_HT/Lesson_47_HT/obj/Debug/net8.0/Lesson_47_HT.AssemblyInfo.cs
+/Users/eljav04/Desktop/Cybernetics Backend/Home Tasks/Lesson_47_HT/Lesson_47_HT/obj/Debug/net8.0/Lesson_47_HT.csproj.CoreCompileInputs.cache
+/Users/eljav04/Desktop/Cybernetics Backend/Home Tasks/Lesson_47_HT/Lesson_47_HT/obj/Debug/net8.0/Lesson_47_HT.sourcelink.json
+/Users/eljav04/Desktop/Cybernetics Backend/Home Tasks/Lesson_47_HT/Lesson_47_HT/obj/Debug/net8.0/Lesson_47_HT.dll
+/Users/eljav04/Desktop/Cybernetics Backend/Home Tasks/Lesson_47_HT/Lesson_47_HT/obj/Debug/net8.0/refint/Lesson_47_HT.dll
+/Users/eljav04/Desktop/Cybernetics Backend/Home Tasks/Lesson_47_HT/Lesson_47_HT/obj/Debug/net8.0/Lesson_47_HT.pdb
+/Users/eljav04/Desktop/Cybernetics Backend/Home Tasks/Lesson_47_HT/Lesson_47_HT/obj/Debug/net8.0/Lesson_47_HT.genruntimeconfig.cache
+/Users/eljav04/Desktop/Cybernetics Backend/Home Tasks/Lesson_47_HT/Lesson_47_HT/obj/Debug/net8.0/ref/Lesson_47_HT.dll
